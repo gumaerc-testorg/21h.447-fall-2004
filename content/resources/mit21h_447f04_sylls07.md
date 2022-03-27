@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 71e3f9f7-660b-a8da-f646-32dfe41a49d3
 resourcetype: Document
 title: Spring 2007, David Ciarlo
 uid: cdc2b1b7-34f3-b342-1d50-b838d5406b98

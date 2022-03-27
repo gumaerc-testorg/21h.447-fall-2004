@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 71e3f9f7-660b-a8da-f646-32dfe41a49d3
 resourcetype: Document
 title: Fall 2004, David Ciarlo
 uid: 2c612cc6-2de4-8fa4-7a10-4f523f74a505
