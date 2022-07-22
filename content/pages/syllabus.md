@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and grading. An archive of syllabi from different
+  terms is also provided.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 71e3f9f7-660b-a8da-f646-32dfe41a49d3
 ---
@@ -14,11 +19,11 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2007, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_447f04_syllf07))
+> Fall 2007, David Ciarlo ({{% resource_link 9456357a-4875-579f-a783-a2c4adb310e5 "PDF" %}})
 > 
-> Spring 2007, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_447f04_sylls07))
+> Spring 2007, David Ciarlo ({{% resource_link cdc2b1b7-34f3-b342-1d50-b838d5406b98 "PDF" %}})
 > 
-> Fall 2004, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_447f04_syllf04))
+> Fall 2004, David Ciarlo ({{% resource_link 2c612cc6-2de4-8fa4-7a10-4f523f74a505 "PDF" %}})
 
 Description
 -----------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of books for purchase and reading assignments
+  by class session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 312ab9e9-3da3-9e90-0e44-50b168c3db6c
 ---

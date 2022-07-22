@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on what to expect from the final exam
+  for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 774c6697-5ea1-52d5-81ff-876b9b0a9193
 ---
