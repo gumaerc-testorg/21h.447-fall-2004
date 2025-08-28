@@ -2,7 +2,7 @@
 content_type: resource
 description: This syllabus provides a course description and information on grading,
   books, and the course schedule.
-file: /courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/9456357a4875579fa783a2c4adb310e5_MIT21H_447f04_syllf07.pdf
+file: /ol-ocw-studio-app/courses/21h-447-nazi-germany-and-the-holocaust-fall-2004/9456357a4875579fa783a2c4adb310e5_MIT21H_447f04_syllf07.pdf
 file_size: 137371
 file_type: application/pdf
 learning_resource_types: []
